@@ -2,7 +2,7 @@
 
 **Computer Vision & ML Engineer** | M.Sc. Computer Engineering, Yaşar University
 
-I work on computer vision systems running on the edge — object detection,
+I work on computer vision systems running on the edge object detection,
 model optimization (TensorRT/CUDA), and real-time inference. I also work
 with NLP and LLMs, building agentic LLM applications and exploring
 multimodal AI.
