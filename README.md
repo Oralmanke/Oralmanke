@@ -1,16 +1,17 @@
-## Hi there 👋
+# Oral Yalçınpınar
 
-<!--
-**Oralmanke/Oralmanke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Vision & ML Engineer** | M.Sc. Computer Engineering, Yaşar University
 
-Here are some ideas to get you started:
+I work on computer vision systems running on the edge — object detection,
+model optimization (TensorRT/CUDA), and real-time inference. I also work
+with NLP and LLMs, building agentic LLM applications and exploring
+multimodal AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently: M.Sc. thesis (optimization) + portfolio projects.
+
+- 🔭  Currently working on: [edge-vision-detection], [fall-detection]
+- 🌱  Learning: VLMs / multimodal AI, agentic LLM applications, NLP
+- 📫  Contact: oralyalcinpinar@gmail.com
+- 🔗  [oralyal.dev](https://oralyal.dev) · [LinkedIn](https://linkedin.com/in/oral-yalçınpınar)
+
+**Tech:** Python · PyTorch · TensorFlow · YOLO · OpenCV · CUDA · Docker · FastAPI · Hugging Face · LangChain
